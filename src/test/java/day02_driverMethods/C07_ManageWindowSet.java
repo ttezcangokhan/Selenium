@@ -1,4 +1,4 @@
-package day02_driverMethods.C02_driver;
+package day02_driverMethods;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
